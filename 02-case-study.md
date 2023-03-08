@@ -1,6 +1,6 @@
 # System Architecture Case Study
 
-At Kuala Tech, we build enterprise level systems that are excellently designed,
+At Kuaa Tech, we build enterprise level systems that are excellently designed,
 robust, flexible, extensible, and secure. For that reason, we place heavy emphasis
 on system architecture and would like to get an understanding of how you would
 design a system given requirements in a business domain.
