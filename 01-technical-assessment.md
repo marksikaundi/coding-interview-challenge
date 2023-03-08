@@ -1,7 +1,7 @@
 # Software Developer Technical Assessment
 
 This technical assessment forms part of the interview process for a software
-developer role at Kuala Tech. It is based around a small demo program that exposes an HTTP API to return requested values from the Fibonacci sequence.
+developer role at Kuaa Tech. It is based around a small demo program that exposes an HTTP API to return requested values from the Fibonacci sequence.
 
 We have packaged it up with a Docker build environment to make it easier for
 you to build and run. In order to run it, you'll need to have the `docker`
