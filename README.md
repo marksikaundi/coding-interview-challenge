@@ -25,8 +25,6 @@ This is the first step in the interview process. Follow the instructions below t
 
 Once the challenge is complete, please push the code to a new private repo and grant access to the following usernames/email addresses for code review
 
-    stctheproducer or dev@stctheproducer.com
-    k9uma or kuma.musenge@gmail.com
 
 ## Submission
 
